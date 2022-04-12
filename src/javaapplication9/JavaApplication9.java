@@ -9,17 +9,16 @@ import java.io.*;
  *
  * @author mafor5845
  */
-//public class JavaApplication9 {
+public class JavaApplication9 {
     
     /**
-     * @param args the command line arguments
+     * @param str the command line arguments
+     * @throws java.io.IOException
      */
-    //public static void main(String[] args) {
         // TODO code application logic here
 
 
 
-class U7_L5_template{
   public static void main (String str[]) throws IOException {
     int[] elements = {1, 6, 7, 3, 6, 4, 5, 10, 12, 9, 8};
     
