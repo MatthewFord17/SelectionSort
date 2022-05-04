@@ -20,7 +20,7 @@ public class JavaApplication9 {
 
 
   public static void main (String str[]) throws IOException {
-    int[] elements = {1, 6, 7, 3, 6, 4, 5, 10, 12, 9, 8};
+    int[] elements = {2, 1000, 40, 983, 7, 42, 59, 103, 1220, 98, 84};
     
     //Moves "boundary" of unsorted array
     for (int j = 0; j < elements.length -1; j++)
